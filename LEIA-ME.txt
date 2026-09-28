@@ -1,0 +1,15 @@
+ZARA — VERSÃO LEVE (HTML + CSS + JavaScript puro)
+
+COMO ABRIR
+- Dê dois cliques no arquivo index.html. Pronto: abre no navegador.
+- No VS Code também funciona com a extensão Live Server (botão direito > Open with Live Server).
+
+ARQUIVOS
+- index.html  -> estrutura da página (cabeçalho, rodapé, painéis)
+- styles.css  -> todo o visual (mobile first)
+- app.js      -> telas, carrinho, busca, filtros e checkout
+- data.js     -> banco de produtos (nomes, preços, fotos) — edite aqui
+- img/        -> fotos em WebP comprimido
+
+Tamanho total: menos de 1 MB. Sem frameworks, sem instalação.
+Projeto acadêmico: nenhum pedido ou pagamento real é processado.
